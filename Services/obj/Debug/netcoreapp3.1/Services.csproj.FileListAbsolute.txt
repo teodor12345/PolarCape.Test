@@ -1,0 +1,4 @@
+C:\Users\TedMousbi\Desktop\PolarCape\CollageSystem.App\Services\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\TedMousbi\Desktop\PolarCape\CollageSystem.App\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\TedMousbi\Desktop\PolarCape\CollageSystem.App\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\TedMousbi\Desktop\PolarCape\CollageSystem.App\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs

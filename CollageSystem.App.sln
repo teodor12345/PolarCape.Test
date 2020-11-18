@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "DataBase\DataBase.csproj", "{7B7A4941-3B12-4B16-ACA4-B8EE70CC6727}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{DADFE590-AC02-4B52-8F70-DCFE779084A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.APP", "Test.APP\Test.APP.csproj", "{AEE2FD52-B698-4EBC-AE67-B28C883EE5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7A4941-3B12-4B16-ACA4-B8EE70CC6727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7A4941-3B12-4B16-ACA4-B8EE70CC6727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7A4941-3B12-4B16-ACA4-B8EE70CC6727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7A4941-3B12-4B16-ACA4-B8EE70CC6727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADFE590-AC02-4B52-8F70-DCFE779084A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADFE590-AC02-4B52-8F70-DCFE779084A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADFE590-AC02-4B52-8F70-DCFE779084A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADFE590-AC02-4B52-8F70-DCFE779084A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE2FD52-B698-4EBC-AE67-B28C883EE5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE2FD52-B698-4EBC-AE67-B28C883EE5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE2FD52-B698-4EBC-AE67-B28C883EE5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE2FD52-B698-4EBC-AE67-B28C883EE5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A662311-D073-4F03-996F-8F24944D8B33}
+	EndGlobalSection
+EndGlobal
